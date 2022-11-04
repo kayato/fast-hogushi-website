@@ -5,8 +5,8 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta name="description" content="" />
-	<link rel="icon" type="image/png" href="./img/icon.png" />
-	<link rel="apple-touch-icon" sizes="180x180" href="./img/icon.png" />
+	<link rel="icon" type="image/png" href="./img/logo.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="./img/logo.png" />
 	<title>ファストほぐし</title>
 	<link rel="canonical" href="" />
 	<link rel="preconnect" href="https://fonts.googleapis.com">
