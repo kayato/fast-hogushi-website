@@ -4,11 +4,11 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<meta name="description" content="" />
+	<meta name="description" content="Fast Hogushi（ファストほぐし）。10分間で今すぐマッサージガンを使ってほぐし施術ができる。マッサージしたい時に予約不要の格安サービス。" />
 	<link rel="icon" type="image/png" href="./img/logo.png" />
 	<link rel="apple-touch-icon" sizes="180x180" href="./img/logo.png" />
-	<title>ファストほぐし</title>
-	<link rel="canonical" href="" />
+	<title>Fast Hogushi（ファストほぐし）</title>
+	<link rel="canonical" href="https://fast-hogushi.com/" />
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Roboto:wght@700&display=swap" rel="stylesheet">
@@ -19,7 +19,7 @@
 	<div class="container">
 		<header class="header">
 			<div class="header__top">
-				<h1 class="header__title">ファストほぐし</h1>
+				<h1 class="header__title"><img src="./img/logo-long.png" alt="fast hogushi ファストほぐし　ロゴ" /></h1>
 			</div>
 			<nav class="gnav">
 				<ul class="gnav__list" role="list">
@@ -27,19 +27,17 @@
 					<li class="gnav__item"><a href="#price">料金</a></li>
 					<li class="gnav__item"><a href="#shops">店舗一覧</a></li>
 					<li class="gnav__item"><a href="#faq">FAQ</a></li>
-					<li class="gnav__item"><a href="">メニュー確認用</a></li>
-					<li class="gnav__item"><a href="">メニュー確認用</a></li>
 				</ul>
 			</nav>
 		</header>
 		<main>
 			<div class="kv">
-				<div class="kv__container">
+				<!-- <div class="kv__container">
 					<ul class="kv__prices" role="list">
 						<li class="kv__price">10分間<br>1,100円</li>
-						<li class="kv__price">20分間<br>2,200円</li>
+						<li class="kv__price">15分間<br>1,650円</li>
 					</ul>
-				</div>
+				</div> -->
 				<picture class="kv__thumbnail">
 					<source type="image/png" srcset="./img/kv-pc.jpg" media="(min-width: 600px)" width="856" height="480">
 					<source type="image/png" srcset="./img/kv.jpg" width="428" height="285">
@@ -49,13 +47,13 @@
 
 			<section class="about">
 				<div class="about__container">
-					<h2 class="section__title">ファストほぐしとは？</h2>
+					<h2 class="section__title">Fast Hogushi（ファストほぐし）とは？</h2>
 					<p class="about__text">
-						10分間で今すぐマッサージガンを利用した<br>
+						10分間で今すぐ本格的なマッサージガンを利用した<br>
 						ほぐし施術ができる。
 					</p>
 					<p class="about__text">
-						<strong>予約不要・10分間で1,100円の格安価格</strong>
+						<strong>予約不要・10分間で本格的な施術</strong>
 					</p>
 					<p class="about__text">
 						なんとなく疲れている。<br>
@@ -63,7 +61,7 @@
 						気軽に行きたいのに予約が必要。
 					</p>
 					<p class="about__text">
-						「10分間で今すぐ行ける」がファストほぐしの強みです。
+						「10分間で今すぐ行ける」がFast Hogushiの強みです。
 					</p>
 					<p class="about__text">
 						<em>
@@ -79,7 +77,7 @@
 					<h2 class="section__title">料金</h2>
 					<ul class="price__list" role="list">
 						<li class="price__item"><span>10分間</span>1,100円（税込）</li>
-						<li class="price__item"><span>20分間</span>2,200円（税込）</li>
+						<li class="price__item"><span>15分間</span>1,650円（税込）</li>
 					</ul>
 				</div>
 			</section>
@@ -88,7 +86,7 @@
 				<div class="merit__container">
 					<h2 class="section__title" data-type="large">マッサージガン施術のメリット</h2>
 					<p class="merit__text">
-						ファストほぐしでは、短時間で大きな効果を得るためマッサージガン利用して施術をおこないます。
+						Fast Hogushiでは、短時間で大きな効果を得るためマッサージガン利用して施術をおこないます。
 					</p>
 					<ol class="merit__list" role="list">
 						<li class="merit__item">
@@ -134,22 +132,22 @@
 						<li class="flow__item">
 							<div class="flow__contents">
 								<h3 class="flow__sub-title"><span class="flow__number">Step<span>1</span></span>Googleマップで<br>「ファストほぐし」で検索</h3>
-								<p class="flow__msg">お近くのファストほぐしを検索して下さい。</p>
+								<p class="flow__msg">お近くのFast Hogushiを検索して下さい。提携美容院の場所が見つかります。</p>
 							</div>
 							<img src="./img/image4.jpg" alt="" class="flow__thumbnail" decoding="async">
 						</li>
 						<li class="flow__item">
 							<div class="flow__contents">
-								<h3 class="flow__sub-title"><span class="flow__number">Step<span>2</span></span>店に電話して<br>「今から行けるか」確認</h3>
-								<p class="flow__msg">お近くの店に今から行けるか確認して下さい。</p>
+								<h3 class="flow__sub-title"><span class="flow__number">Step<span>2</span></span>提携美容院に電話して<br>「今から行けるか」確認</h3>
+								<p class="flow__msg">お近くの提携美容院に今から行けるか確認して下さい。</p>
 							</div>
 							<img src="./img/image5.jpg" alt="" class="flow__thumbnail" decoding="async">
 						</li>
 						<li class="flow__item">
 							<div class="flow__contents">
 								<h3 class="flow__sub-title"><span class="flow__number">Step<span>3</span></span>施術</h3>
-								<p class="flow__msg">マッサージガンを利用して、首・肩・背中を中心とした施術を実施します。施術は10分か、20分間をご選択できます。</p>
-								<p class="flow__msg">※店によっては、座りながらの施術となります。</p>
+								<p class="flow__msg">マッサージガンを利用して、首・肩・背中を中心とした施術を実施します。施術は10分か、15分間をご選択できます。</p>
+								<p class="flow__msg">※基本的には座りながらの施術となりますが、店舗によってはシャンプー台を利用したリクライニング施術も可能です。</p>
 							</div>
 							<img src="./img/image6.jpg" alt="" class="flow__thumbnail" decoding="async">
 						</li>
@@ -170,9 +168,9 @@
 					<h2 class="section__title">店舗一覧</h2>
 					<ul class="shops__list" role="list">
 						<li class="shops__item">
-							<h3 class="shops__sub-title">ファストほぐし大泉学園1号店</h3>
+							<h3 class="shops__sub-title">Fast Hogushi 大泉学園1号店</h3>
 							<p class="shops__address">
-								〒178-0063 東京都練馬区東大泉1丁目30−13<br>ビクトヘア内
+								〒178-0063 東京都練馬区東大泉1丁目30−13<br>提携美容院：ビクトヘア内
 							</p>
 							<a href="tel:0899104790" class="shops__tel">089-910-4790</a>
 							<iframe class="shops__map"
@@ -180,9 +178,9 @@
 								style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						</li>
 						<li class="shops__item">
-							<h3 class="shops__sub-title">ファストほぐし大泉学園2号店</h3>
+							<h3 class="shops__sub-title">Fast Hogushi 大泉学園2号店</h3>
 							<p class="shops__address">
-								〒178-0063 東京都練馬区東大泉1丁目26−19<br>hair moss内
+								〒178-0063 東京都練馬区東大泉1丁目26−19<br>提携美容院：hair moss内
 							</p>
 							<a href="tel:08012272775" class="shops__tel">080-1227-2775</a>
 							<iframe class="shops__map"
@@ -197,34 +195,69 @@
 				<div class="faq__container">
 					<h2 class="section__title" data-type="large">よくある質問</h2>
 					<details class="faq__item">
-						<summary class="faq__q">提携店舗とは何ですか？</summary>
+						<summary class="faq__q">延長はできますか？</summary>
 						<span>
-							腰のみの施術は行っておりません。背中を長く施術することは可能です。
+							前後の予約次第ではもちろん可能です。延長は5分後に550円となります。
 						</span>
 					</details>
 					<details class="faq__item">
-						<summary class="faq__q">提携店舗とは何ですか？</summary>
+						<summary class="faq__q">ほぐしからヘアカットもできますか？</summary>
 						<span>
-							腰のみの施術は行っておりません。背中を長く施術することは可能です。
+							前後の予約次第ではもちろん可能です。
 						</span>
 					</details>
 					<details class="faq__item">
-						<summary class="faq__q">提携店舗とは何ですか？</summary>
+						<summary class="faq__q">スタッフの指名はできますか？</summary>
 						<span>
-							腰のみの施術は行っておりません。背中を長く施術することは可能です。
+							指名対応はしておりません。
 						</span>
 					</details>
 					<details class="faq__item">
-						<summary class="faq__q">提携店舗とは何ですか？</summary>
+						<summary class="faq__q">着替えはありますか？</summary>
 						<span>
-							腰のみの施術は行っておりません。背中を長く施術することは可能です。
+							着替えのご用意がありません。
+						</span>
+					</details>
+					<details class="faq__item">
+						<summary class="faq__q">妊娠中でも可能ですか？</summary>
+						<span>
+							医師とのご相談の上ご来店下さい。
+						</span>
+					</details>
+					<details class="faq__item">
+						<summary class="faq__q">女性でも安心して受けられますか？</summary>
+						<span>
+							女性お一人のお客様も多くご利用いただいております。
+						</span>
+					</details>
+					<details class="faq__item">
+						<summary class="faq__q">病気や怪我がありますが受けられますか？</summary>
+						<span>
+							下記項目に該当する方は、お身体への影響を考慮致しまして施術をお断りしております。<br />
+							・極度の筋肉痛の方、リウマチ、糖尿病などの疾病をお持ちの方<br />
+							・極度の飲酒<br />
+							・体調不調の方<br />
+							・発作の可能性がある方<br />
+							・怪我、打撲、捻挫、火傷等のある方<br />
+							・中学生以下の方<br />
+							・施術者が危険を感じる行為<br />
+							・発言を行う方<br />
+							・極端な強揉み、強押しをご希望の方<br />
+							・発熱のある方<br />
+							・飲酒・泥酔している方<br />
+							・骨粗鬆症の方<br />
+							・体臭があまりにもきつい方・その他、お身体の具合が良くない方<br />
+							<br />
+							上記以外でも施術が難しいと当店が判断した場合は、お断りさせていただく場合がございます。<br />
+							※お客様のご申告無く当店の施術を受けられた後、何らかの症状が出た場合一切責任を負いかねますのでご了承ください。<br />
+							※施術終了後に当店外で発症し、医師による因果関係の証明不能の傷病につきましても、一切責任を負いかねますのでご了承下さい。
 						</span>
 					</details>
 				</div>
 			</section>
 		</main>
 		<footer class="footer">
-			<small class="footer__copy">2022 &copy; ファストほぐし</small>
+			<small class="footer__copy">2022 &copy; Fast Hogushi</small>
 		</footer>
 	</div>
 </body>
