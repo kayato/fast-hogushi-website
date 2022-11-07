@@ -337,7 +337,7 @@ body {
 }
 @media only screen and (min-width: 600px) {
   .gnav a {
-    color: var(--c-primary);
+    color: #000;
     line-height: 2;
     font-size: 0.9375rem;
   }

@@ -182,7 +182,7 @@
 							<p class="shops__address">
 								〒178-0063 東京都練馬区東大泉1丁目26−19<br>提携美容院：hair moss内
 							</p>
-							<a href="tel:08012272775" class="shops__tel">080-1227-2775</a>
+							<a href="tel:08012272775" class="shops__tel">03-3921-2341</a>
 							<iframe class="shops__map"
 								src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3238.0555784175385!2d139.58590941562542!3d35.74943868017847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018eec77415dfb3%3A0x6b68dae552f881ac!2z44CSMTc4LTAwNjMg5p2x5Lqs6YO957e06aas5Yy65p2x5aSn5rOJ77yR5LiB55uu77yS77yW4oiS77yR77yZ!5e0!3m2!1sja!2sjp!4v1667434344740!5m2!1sja!2sjp"
 								style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
