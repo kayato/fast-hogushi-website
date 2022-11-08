@@ -49,8 +49,7 @@
 				<div class="about__container">
 					<h2 class="section__title">Fast Hogushi（ファストほぐし）とは？</h2>
 					<p class="about__text">
-						10分間で今すぐ本格的なマッサージガンを利用した<br>
-						ほぐし施術ができる。
+						マッサージガンを使用する為、深層部位まで短時間でほぐします。
 					</p>
 					<p class="about__text">
 						<strong>予約不要・10分間で本格的な施術</strong>
