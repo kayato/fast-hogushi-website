@@ -12,16 +12,16 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Roboto:wght@700&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="style.css" />
+	<link rel="stylesheet" href="style.css?v=1" />
 </head>
 
 <body class="top">
 	<div class="container">
 		<header class="header">
 			<div class="header__top">
-				<h1 class="header__title"><img src="./img/logo-long.png" alt="fast hogushi ファストほぐし　ロゴ" /></h1>
+				<h1 class="header__title">Fast Hogushi</h1>
 			</div>
-			<nav class="gnav">
+			<nav class="gnav gnav__pc">
 				<ul class="gnav__list" role="list">
 					<li class="gnav__item"><a href="#flow">使い方の流れ</a></li>
 					<li class="gnav__item"><a href="#price">料金</a></li>
@@ -30,6 +30,14 @@
 				</ul>
 			</nav>
 		</header>
+		<nav class="gnav gnav__sp">
+			<ul class="gnav__list" role="list">
+				<li class="gnav__item"><a href="#flow">使い方の流れ</a></li>
+				<li class="gnav__item"><a href="#price">料金</a></li>
+				<li class="gnav__item"><a href="#shops">店舗一覧</a></li>
+				<li class="gnav__item"><a href="#faq">FAQ</a></li>
+			</ul>
+		</nav>
 		<main>
 			<div class="kv">
 				<!-- <div class="kv__container">
