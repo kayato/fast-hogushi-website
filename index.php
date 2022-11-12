@@ -161,8 +161,7 @@
 						<li class="flow__item">
 							<div class="flow__contents">
 								<h3 class="flow__sub-title"><span class="flow__number">Step<span>4</span></span>施術</h3>
-								<p class="flow__msg">マッサージガンを利用して、首・肩・背中を中心とした施術を実施します。施術は10分か、15分間をご選択できます。</p>
-								<p class="flow__msg">※基本的には座りながらの施術となりますが、店舗によってはシャンプー台を利用したリクライニング施術も可能です。</p>
+								<p class="flow__msg">マッサージガンを利用して、肩、背中、腕を中心とした施術が可能です。時間は10分または15分を選択できます。</p>
 							</div>
 							<img src="./img/image6.jpg" alt="" class="flow__thumbnail" decoding="async">
 						</li>
