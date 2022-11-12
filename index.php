@@ -12,7 +12,7 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Roboto:wght@700&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="style.css?v=1" />
+	<link rel="stylesheet" href="style.css?v=2" />
 </head>
 
 <body class="top">
@@ -152,7 +152,15 @@
 						</li>
 						<li class="flow__item">
 							<div class="flow__contents">
-								<h3 class="flow__sub-title"><span class="flow__number">Step<span>3</span></span>施術</h3>
+								<h3 class="flow__sub-title"><span class="flow__number">Step<span>3</span></span>入店</h3>
+								<p class="flow__msg">提携美容院の入り口からお入り下さい。提携店舗にはFast Hogushiのステッカーが貼ってあります。</p>
+								<p class="flow__msg">※ヘアカット等は必須ではありませんので、マッサージのみお楽しみ頂けます。</p>
+							</div>
+							<img src="./img/image8.jpg" alt="" class="flow__thumbnail" decoding="async">
+						</li>
+						<li class="flow__item">
+							<div class="flow__contents">
+								<h3 class="flow__sub-title"><span class="flow__number">Step<span>4</span></span>施術</h3>
 								<p class="flow__msg">マッサージガンを利用して、首・肩・背中を中心とした施術を実施します。施術は10分か、15分間をご選択できます。</p>
 								<p class="flow__msg">※基本的には座りながらの施術となりますが、店舗によってはシャンプー台を利用したリクライニング施術も可能です。</p>
 							</div>
@@ -160,7 +168,7 @@
 						</li>
 						<li class="flow__item">
 							<div class="flow__contents">
-								<h3 class="flow__sub-title"><span class="flow__number">Step<span>4</span></span>現地決済</h3>
+								<h3 class="flow__sub-title"><span class="flow__number">Step<span>5</span></span>現地決済</h3>
 								<p class="flow__msg">現金かクレジットカードの支払いとなります。<br>
 									恐れ入りますが、その他の決済方法が可能かについては、各店舗によりますので、電話時にご確認ください。</p>
 							</div>
@@ -195,6 +203,13 @@
 								style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						</li>
 					</ul>
+				</div>
+			</section>
+
+			<section class="view" id="view">
+				<div class="view__container">
+					<h2 class="section__title" data-type="large">施術の様子</h2>
+					<img src="./img/video2.gif" alt="Fast  Hogushi マッサージ施術の様子" />
 				</div>
 			</section>
 
