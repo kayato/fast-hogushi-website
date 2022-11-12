@@ -208,6 +208,12 @@
 						</span>
 					</details>
 					<details class="faq__item">
+						<summary class="faq__q">提携美容院での施術ということですが、ヘアカットも必須ですか？</summary>
+						<span>
+							Fast Hogushiは美容室内で行いますが、ヘアカット等は必須ではありませんので、マッサージのみお楽しみ頂けます。どうぞお気軽にご利用下さい。
+						</span>
+					</details>
+					<details class="faq__item">
 						<summary class="faq__q">ほぐしからヘアカットもできますか？</summary>
 						<span>
 							前後の予約次第ではもちろん可能です。
