@@ -424,6 +424,28 @@ body {
 .top .kv__thumbnail img {
   width: 100%;
 }
+.top a.kv__cta {
+  position: absolute;
+  bottom: 30px;
+  left: 20%;
+  width: 60%;
+  background-color: var(--c-primary);
+  padding: 15px;
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+  color: #000;
+  cursor: pointer;
+}
+@media only screen and (min-width: 600px) {
+  .top a.kv__cta {
+    bottom: 60px;
+    left: 35%;
+    width: 30%;
+    padding: 20px;
+    line-height: 1.3;
+  }
+}
 .top .kv__prices {
   width: var(--wrapper-width);
   margin-inline: auto;

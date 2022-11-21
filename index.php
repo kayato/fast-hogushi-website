@@ -12,7 +12,7 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Roboto:wght@700&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="style.css?v=2" />
+	<link rel="stylesheet" href="style.css?v=4" />
 </head>
 
 <body class="top">
@@ -51,30 +51,29 @@
 					<source type="image/png" srcset="./img/kv.jpg" width="428" height="285">
 					<img src="./img/kv.jpg" width="428" height="285" alt="施術を受ける男性の様子" decoding="async">
 				</picture>
+				<a class="kv__cta" href="#shops">今すぐ電話する</a>
 			</div>
 
 			<section class="about">
 				<div class="about__container">
-					<h2 class="section__title">Fast Hogushi（ファストほぐし）とは？</h2>
+					<h2 class="section__title">Fast Hogushi<br>（ファストほぐし）とは？</h2>
 					<p class="about__text">
-						マッサージガンを使用する為、深層部位まで短時間でほぐします。
+						<em>①最先端のマッサージガンを使用</em><br>
+						＜あるホテルでは、10分10,000円で同様のサービスが提供されています＞
 					</p>
+
 					<p class="about__text">
-						<strong>予約不要・10分間で本格的な施術</strong>
+						<em>②真相部分を短時間で筋膜リリース</em><br>
+						＜5分/10分/15分のコースをご用意＞
 					</p>
+
 					<p class="about__text">
-						なんとなく疲れている。<br>
-						整体に行きたいけれど忙しい。<br>
-						気軽に行きたいのに予約が必要。
+						<em>③駅近美容院で"着替えなし"でサクッと施術</em><br>
+						＜おしゃれな空間で椅子に座って施術します＞
 					</p>
+
 					<p class="about__text">
-						「10分間で今すぐ行ける」がFast Hogushiの強みです。
-					</p>
-					<p class="about__text">
-						<em>
-							美容院の空き時間を利用したサービスなので、
-							提携している美容院で施術となります。
-						</em>
+						<em>④予約不要</em><br>
 					</p>
 				</div>
 			</section>
@@ -83,9 +82,11 @@
 				<div class="price__container">
 					<h2 class="section__title">料金</h2>
 					<ul class="price__list" role="list">
-						<li class="price__item"><span>10分間</span>1,100円（税込）</li>
-						<li class="price__item"><span>15分間</span>1,650円（税込）</li>
+						<li class="price__item"><span>5分間 550円</span>まずはお試し</li>
+						<li class="price__item"><span>10分間 1,100円</span>1番人気！</li>
+						<li class="price__item"><span>15分間 1,650円</span>2番人気！</li>
 					</ul>
+					(税込)
 				</div>
 			</section>
 
