@@ -81,6 +81,9 @@
 			<section class="price" id="price">
 				<div class="price__container">
 					<h2 class="section__title">料金</h2>
+					<p class="about__text">
+						<em>初回全コース無料キャンペーン中！</em><br>
+					</p>
 					<ul class="price__list" role="list">
 						<li class="price__item"><span>5分間 550円</span>まずはお試し</li>
 						<li class="price__item"><span>10分間 1,100円</span>1番人気！</li>
@@ -187,7 +190,7 @@
 							<p class="shops__address">
 								〒178-0063 東京都練馬区東大泉1丁目30−13<br>提携美容院：ビクトヘア内
 							</p>
-							<a href="tel:0899104790" class="shops__tel">089-910-4790</a>
+							<a href="tel:0899104790" class="shops__tel">03-6885-0634</a>
 							<iframe class="shops__map"
 								src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3238.025362180145!2d139.5844512156254!3d35.75018138017826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018eec7b55fac43%3A0xd434140d49837cc5!2z44CSMTc4LTAwNjMg5p2x5Lqs6YO957e06aas5Yy65p2x5aSn5rOJ77yR5LiB55uu77yT77yQ4oiS77yR77yT!5e0!3m2!1sja!2sjp!4v1667434243547!5m2!1sja!2sjp"
 								style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
