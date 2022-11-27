@@ -58,6 +58,11 @@
 				<div class="about__container">
 					<h2 class="section__title">Fast Hogushi<br>（ファストほぐし）とは？</h2>
 					<p class="about__text">
+						<em>初回全コース無料キャンペーン中！</em><br>
+						電話した際に、無料キャンペーンを見たとお伝えください。初回のみ15分まで無料で施術となります。
+					</p>
+
+					<p class="about__text">
 						<em>①最先端のマッサージガンを使用</em><br>
 						＜あるホテルでは、10分10,000円で同様のサービスが提供されています＞
 					</p>
@@ -83,6 +88,7 @@
 					<h2 class="section__title">料金</h2>
 					<p class="about__text">
 						<em>初回全コース無料キャンペーン中！</em><br>
+						電話した際に、無料キャンペーンを見たとお伝えください。初回のみ15分まで無料で施術となります。
 					</p>
 					<ul class="price__list" role="list">
 						<li class="price__item"><span>5分間 550円</span>まずはお試し</li>
@@ -143,7 +149,8 @@
 						<li class="flow__item">
 							<div class="flow__contents">
 								<h3 class="flow__sub-title"><span class="flow__number">Step<span>1</span></span>Googleマップで<br>「ファストほぐし」で検索</h3>
-								<p class="flow__msg">お近くのFast Hogushiを検索して下さい。提携美容院の場所が見つかります。</p>
+								<p class="flow__msg">お近くのFast Hogushiを検索して下さい。提携美容院の場所が見つかります。<em>電話した際に、無料キャンペーンを見たとお伝えください。初回のみ15分まで無料で施術となります。</em>
+								</p>
 							</div>
 							<img src="./img/image4.jpg" alt="" class="flow__thumbnail" decoding="async">
 						</li>
