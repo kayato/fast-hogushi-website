@@ -59,7 +59,6 @@
 					<h2 class="section__title">Fast Hogushi<br>（ファストほぐし）とは？</h2>
 					<p class="about__text">
 						<em>初回全コース無料キャンペーン中！</em><br>
-						電話した際に、無料キャンペーンを見たとお伝えください。初回のみ15分まで無料で施術となります。
 					</p>
 
 					<p class="about__text">
